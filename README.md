@@ -6,8 +6,6 @@ Scripts Pendrive_Hacker
   <img src="/logo.png" alt="Pendrive Hacker" width="200">
 </h1>
 
-<p align="center">Scripts do Pendrive Hacker<br></p>
-
 ## Funcionalidades
 - [Trocar o Wallpaper](/Trocar_Wallpaper)
 - [Roubar Senhas WIFI](/Senhas_WIFI)
